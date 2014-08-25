@@ -1,0 +1,12 @@
+C:\Users\tud03191\Desktop\CipherMidterm\CipherMidterm\bin\Debug\CipherMidterm.exe.config
+C:\Users\tud03191\Desktop\CipherMidterm\CipherMidterm\obj\Debug\CipherMidterm.csprojResolveAssemblyReference.cache
+C:\Users\tud03191\Desktop\CipherMidterm\CipherMidterm\obj\Debug\CipherMidterm.Form1.resources
+C:\Users\tud03191\Desktop\CipherMidterm\CipherMidterm\obj\Debug\CipherMidterm.Properties.Resources.resources
+C:\Users\tud03191\Desktop\CipherMidterm\CipherMidterm\obj\Debug\CipherMidterm.csproj.GenerateResource.Cache
+C:\Users\tud03191\Desktop\CipherMidterm\CipherMidterm\bin\Debug\CipherMidterm.exe
+C:\Users\tud03191\Desktop\CipherMidterm\CipherMidterm\bin\Debug\CipherMidterm.pdb
+C:\Users\tud03191\Desktop\CipherMidterm\CipherMidterm\obj\Debug\CipherMidterm.exe
+C:\Users\tud03191\Desktop\CipherMidterm\CipherMidterm\obj\Debug\CipherMidterm.pdb
+C:\Users\Billyz0914\Dropbox\cSharp\CipherMidterm\CipherMidterm\bin\Debug\CipherMidterm.exe.config
+C:\Users\Billyz0914\Dropbox\cSharp\CipherMidterm\CipherMidterm\obj\Debug\CipherMidterm.exe
+C:\Users\Billyz0914\Dropbox\cSharp\CipherMidterm\CipherMidterm\obj\Debug\CipherMidterm.pdb
